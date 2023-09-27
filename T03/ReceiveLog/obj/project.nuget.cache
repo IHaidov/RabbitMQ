@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDtZHFyeOKb40rogHwe258Vi2H/PYO6BGN4B+11PY46fRR5mywfOGzibsZjkG7Vp8CuFivV7DNet/4AP2C6Nwg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RabbitMQ\\T03\\ReceiveLog\\ReceiveLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanya\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\vanya\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\vanya\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

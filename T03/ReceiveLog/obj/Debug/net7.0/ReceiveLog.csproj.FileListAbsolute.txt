@@ -1,0 +1,17 @@
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.csproj.AssemblyReference.cache
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.AssemblyInfoInputs.cache
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.AssemblyInfo.cs
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.csproj.CoreCompileInputs.cache
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\ReceiveLog.exe
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\ReceiveLog.deps.json
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\ReceiveLog.runtimeconfig.json
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\ReceiveLog.dll
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\ReceiveLog.pdb
+C:\Projects\RabbitMQ\T03\ReceiveLog\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.csproj.CopyComplete
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.dll
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\refint\ReceiveLog.dll
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.pdb
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ReceiveLog.genruntimeconfig.cache
+C:\Projects\RabbitMQ\T03\ReceiveLog\obj\Debug\net7.0\ref\ReceiveLog.dll
