@@ -1,0 +1,17 @@
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.exe
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.deps.json
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.runtimeconfig.json
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.dll
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\ReceiveLogsTopic.pdb
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.AssemblyReference.cache
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.csproj.CopyComplete
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.dll
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\refint\ReceiveLogsTopic.dll
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.pdb
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ReceiveLogsTopic.genruntimeconfig.cache
+C:\Projects\RabbitMQ\T05\ReceiveLogsTopic\obj\Debug\net7.0\ref\ReceiveLogsTopic.dll
