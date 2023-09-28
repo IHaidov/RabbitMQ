@@ -1,0 +1,17 @@
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\EmitLogsDirect.exe
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\EmitLogsDirect.deps.json
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\EmitLogsDirect.runtimeconfig.json
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\EmitLogsDirect.dll
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\EmitLogsDirect.pdb
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.csproj.AssemblyReference.cache
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.AssemblyInfoInputs.cache
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.AssemblyInfo.cs
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.csproj.CoreCompileInputs.cache
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.csproj.CopyComplete
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.dll
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\refint\EmitLogsDirect.dll
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.pdb
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\EmitLogsDirect.genruntimeconfig.cache
+C:\Projects\RabbitMQ\T04\EmitLogsDirect\obj\Debug\net7.0\ref\EmitLogsDirect.dll
